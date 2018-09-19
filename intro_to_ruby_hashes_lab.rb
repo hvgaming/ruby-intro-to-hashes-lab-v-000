@@ -59,7 +59,7 @@ monopoly =  { :railroads => {
                  },
                        
                  :b_and_o_railroad => {
-                   
+                   "mortgage_value"=>"$400"
                  },
                          
                  :shortline => {
