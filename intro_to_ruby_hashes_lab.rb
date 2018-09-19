@@ -31,7 +31,7 @@ monopoly =  { :railroads => { :pieces => 4, :names => {},
       :four_pieces_owned => 200} 
   
      }
- :names=>
+ :names =>
     {
       :reading_railroad =>
       {
@@ -45,7 +45,7 @@ monopoly =  { :railroads => { :pieces => 4, :names => {},
       {
         "mortgage_value" => "$400"
       },  
-      :shortline = >
+      :shortline =>
       {
         "mortgage_value" => "$800"
       }
